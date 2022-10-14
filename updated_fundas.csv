@@ -1,0 +1,352 @@
+,Referencia,barcode,nombre,compra,venta,impuesto,categoria,modelo_funda,modelo_celular,color,inventario,Proveedores,proveedores
+0,case colors_Ip 7 / ip 8_rosa,100,case colors_Ip 7 / ip 8_rosa,10.0,160.0,000,Fundas,case colors,Ip 7 / ip 8,rosa,2,,cabocell
+1,holster_Ip 7 / ip 8_negro,101,holster_Ip 7 / ip 8_negro,25.0,180.0,000,Fundas,holster,Ip 7 / ip 8,negro,2,,cellhit
+2,guess_Ip 7 / ip 8_negro,102,guess_Ip 7 / ip 8_negro,50.0,220.0,000,Fundas,guess,Ip 7 / ip 8,negro,2,,cellhit
+3,calvinklein_Ip 7 / ip 8_negro,103,calvinklein_Ip 7 / ip 8_negro,50.0,220.0,000,Fundas,calvinklein,Ip 7 / ip 8,negro,2,,cellhit
+4,superstar_Ip 7 / ip 8_rosa,104,superstar_Ip 7 / ip 8_rosa,59.0,230.0,000,Fundas,superstar,Ip 7 / ip 8,rosa,1,,cabocell
+5,superstar_Ip 7 / ip 8_cafe,105,superstar_Ip 7 / ip 8_cafe,59.0,230.0,000,Fundas,superstar,Ip 7 / ip 8,cafe,1,,cabocell
+6,otter_Ip 7 / ip 8_morado,106,otter_Ip 7 / ip 8_morado,85.0,250.0,000,Fundas,otter,Ip 7 / ip 8,morado,1,,cabocell
+7,otter_Ip 7 / ip 8_negro,107,otter_Ip 7 / ip 8_negro,85.0,250.0,000,Fundas,otter,Ip 7 / ip 8,negro,1,,cabocell
+8,macaron matte_Ip 7 / ip 8_rosa,108,macaron matte_Ip 7 / ip 8_rosa,70.0,250.0,000,Fundas,macaron matte,Ip 7 / ip 8,rosa,1,,vlak
+9,macaron matte_Ip 7 / ip 8_negro,109,macaron matte_Ip 7 / ip 8_negro,70.0,250.0,000,Fundas,macaron matte,Ip 7 / ip 8,negro,1,,vlak
+10,guess_Ip 7p / ip 8p_blanco,110,guess_Ip 7p / ip 8p_blanco,50.0,220.0,000,Fundas,guess,Ip 7p / ip 8p,blanco,2,,cellhit
+11,calvinklein_Ip 7p / ip 8p_negro,111,calvinklein_Ip 7p / ip 8p_negro,50.0,220.0,000,Fundas,calvinklein,Ip 7p / ip 8p,negro,1,,cellhit
+12,otter_Ip 7p / ip 8p_morado,112,otter_Ip 7p / ip 8p_morado,85.0,250.0,000,Fundas,otter,Ip 7p / ip 8p,morado,1,,cabocell
+13,otter_Ip 7p / ip 8p_rosa,113,otter_Ip 7p / ip 8p_rosa,85.0,250.0,000,Fundas,otter,Ip 7p / ip 8p,rosa,1,,cabocell
+14,holster_Ip 7p / ip 8p_negro,114,holster_Ip 7p / ip 8p_negro,25.0,180.0,000,Fundas,holster,Ip 7p / ip 8p,negro,2,,cellhit
+15,superstar_Ip 7p / ip 8p_azul,115,superstar_Ip 7p / ip 8p_azul,59.0,230.0,000,Fundas,superstar,Ip 7p / ip 8p,azul,1,,cabocell
+16,macaron matte_Ip 7p / ip 8p_rosa,116,macaron matte_Ip 7p / ip 8p_rosa,70.0,250.0,000,Fundas,macaron matte,Ip 7p / ip 8p,rosa,1,,vlak
+17,macaron matte_Ip 7p / ip 8p_negro,117,macaron matte_Ip 7p / ip 8p_negro,70.0,250.0,000,Fundas,macaron matte,Ip 7p / ip 8p,negro,1,,vlak
+18,holster_ip x / ip xs_negro,118,holster_ip x / ip xs_negro,25.0,180.0,000,Fundas,holster,ip x / ip xs,negro,2,,cellhit
+19,magsafe transparente_ip x / ip xs_transparente,119,magsafe transparente_ip x / ip xs_transparente,85.0,260.0,000,Fundas,magsafe transparente,ip x / ip xs,transparente,3,,vlak
+20,calvinklein_ip x / ip xs_negro,120,calvinklein_ip x / ip xs_negro,50.0,220.0,000,Fundas,calvinklein,ip x / ip xs,negro,2,,cellhit
+21,guess_ip x / ip xs_blanco,121,guess_ip x / ip xs_blanco,50.0,220.0,000,Fundas,guess,ip x / ip xs,blanco,2,,cellhit
+22,case colors_ip x / ip xs_rosa,122,case colors_ip x / ip xs_rosa,10.0,160.0,000,Fundas,case colors,ip x / ip xs,rosa,1,,cabocell
+23,macaron matte_ip x / ip xs_rosa,123,macaron matte_ip x / ip xs_rosa,70.0,250.0,000,Fundas,macaron matte,ip x / ip xs,rosa,1,,vlak
+24,macaron matte_ip x / ip xs_negro,124,macaron matte_ip x / ip xs_negro,70.0,250.0,000,Fundas,macaron matte,ip x / ip xs,negro,1,,vlak
+25,magnetica_ip x / ip xs_azul,125,magnetica_ip x / ip xs_azul,40.0,240.0,000,Fundas,magnetica,ip x / ip xs,azul,1,,cellhit
+26,holster_ip xr_negro,126,holster_ip xr_negro,25.0,180.0,000,Fundas,holster,ip xr,negro,2,,cellhit
+27,magsafe transparente_ip xr_transparente,127,magsafe transparente_ip xr_transparente,85.0,260.0,000,Fundas,magsafe transparente,ip xr,transparente,2,,vlak
+28,case colors_ip xr_rosa,128,case colors_ip xr_rosa,10.0,160.0,000,Fundas,case colors,ip xr,rosa,1,,cabocell
+29,macaron matte_ip xr_rosa,129,macaron matte_ip xr_rosa,70.0,250.0,000,Fundas,macaron matte,ip xr,rosa,1,,vlak
+30,calvinklein_ip xr_negro,130,calvinklein_ip xr_negro,50.0,220.0,000,Fundas,calvinklein,ip xr,negro,2,,cellhit
+31,guess_ip xr_blanco,131,guess_ip xr_blanco,50.0,220.0,000,Fundas,guess,ip xr,blanco,1,,cellhit
+32,superstar_ip xr_rosa,132,superstar_ip xr_rosa,59.0,230.0,000,Fundas,superstar,ip xr,rosa,1,,cabocell
+33,superstar_ip xr_cafe,133,superstar_ip xr_cafe,59.0,230.0,000,Fundas,superstar,ip xr,cafe,1,,cabocell
+34,holster_ip xsmax_negro,134,holster_ip xsmax_negro,25.0,180.0,000,Fundas,holster,ip xsmax,negro,2,,cellhit
+35,guess_ip xsmax_blanco,135,guess_ip xsmax_blanco,50.0,220.0,000,Fundas,guess,ip xsmax,blanco,1,,cellhit
+36,magnetica_ip xsmax_transparente,136,magnetica_ip xsmax_transparente,40.0,240.0,000,Fundas,magnetica,ip xsmax,transparente,1,,cellhit
+37,macaron matte_ip xsmax_negro,137,macaron matte_ip xsmax_negro,70.0,250.0,000,Fundas,macaron matte,ip xsmax,negro,1,,vlak
+38,macaron matte_ip xsmax_rosa,138,macaron matte_ip xsmax_rosa,70.0,250.0,000,Fundas,macaron matte,ip xsmax,rosa,1,,vlak
+39,calvinklein_ip xsmax_negro,139,calvinklein_ip xsmax_negro,50.0,220.0,000,Fundas,calvinklein,ip xsmax,negro,2,,cellhit
+40,alto impacto_ip xsmax_negro,140,alto impacto_ip xsmax_negro,65.0,250.0,000,Fundas,alto impacto,ip xsmax,negro,1,,cabocell
+41,magsafe transparente_Ip 11_transparente,141,magsafe transparente_Ip 11_transparente,85.0,260.0,000,Fundas,magsafe transparente,Ip 11,transparente,2,,vlak
+42,otter_Ip 11_rosa,142,otter_Ip 11_rosa,85.0,250.0,000,Fundas,otter,Ip 11,rosa,2,,cabocell
+43,holster_Ip 11 _negro,143,holster_Ip 11 _negro,25.0,180.0,000,Fundas,holster,Ip 11 ,negro,2,,cellhit
+44,macaron matte_Ip 11_rosa,144,macaron matte_Ip 11_rosa,70.0,250.0,000,Fundas,macaron matte,Ip 11,rosa,1,,vlak
+45,superstar_Ip 11_morado,145,superstar_Ip 11_morado,59.0,230.0,000,Fundas,superstar,Ip 11,morado,1,,cabocell
+46,superstar_Ip 11_azul,146,superstar_Ip 11_azul,59.0,230.0,000,Fundas,superstar,Ip 11,azul,0,,cabocell
+47,guess_Ip 11 pro_blanco,147,guess_Ip 11 pro_blanco,50.0,220.0,000,Fundas,guess,Ip 11 pro,blanco,2,,cellhit
+48,calvinklein_Ip 11 pro_negro,148,calvinklein_Ip 11 pro_negro,50.0,220.0,000,Fundas,calvinklein,Ip 11 pro,negro,2,,cellhit
+49,macaron matte_Ip 11 pro_rosa,149,macaron matte_Ip 11 pro_rosa,70.0,250.0,000,Fundas,macaron matte,Ip 11 pro,rosa,1,,vlak
+50,macaron matte_Ip 11 pro_negro,150,macaron matte_Ip 11 pro_negro,70.0,250.0,000,Fundas,macaron matte,Ip 11 pro,negro,1,,vlak
+51,holster_Ip 11 pro_negro,151,holster_Ip 11 pro_negro,25.0,180.0,000,Fundas,holster,Ip 11 pro,negro,2,,cellhit
+52, holter_Ip 11 pro max_negro,152, holter_Ip 11 pro max_negro,,,000,Fundas, holter,Ip 11 pro max,negro,2,,
+53,macaron matte_Ip 11 pro max_rosa,153,macaron matte_Ip 11 pro max_rosa,70.0,250.0,000,Fundas,macaron matte,Ip 11 pro max,rosa,1,,vlak
+54,macaron matte_Ip 11 pro max_negro,154,macaron matte_Ip 11 pro max_negro,70.0,250.0,000,Fundas,macaron matte,Ip 11 pro max,negro,1,,vlak
+55,otter_Ip 11 pro max_negro,155,otter_Ip 11 pro max_negro,85.0,250.0,000,Fundas,otter,Ip 11 pro max,negro,1,,cabocell
+56,otter_Ip 11 pro max_rosa,156,otter_Ip 11 pro max_rosa,85.0,250.0,000,Fundas,otter,Ip 11 pro max,rosa,1,,cabocell
+57,magnetica_Ip 11 pro max_roja,157,magnetica_Ip 11 pro max_roja,40.0,240.0,000,Fundas,magnetica,Ip 11 pro max,roja,2,,cellhit
+58,magnetica_Ip 11 pro max_dorada,158,magnetica_Ip 11 pro max_dorada,40.0,240.0,000,Fundas,magnetica,Ip 11 pro max,dorada,1,,cellhit
+59,guess_Ip 11 pro max_blanco,159,guess_Ip 11 pro max_blanco,50.0,220.0,000,Fundas,guess,Ip 11 pro max,blanco,2,,cellhit
+60,calvinklein_Ip 11 pro max_negro,160,calvinklein_Ip 11 pro max_negro,50.0,220.0,000,Fundas,calvinklein,Ip 11 pro max,negro,2,,cellhit
+61,superstar_Ip 11 pro max_rosa,161,superstar_Ip 11 pro max_rosa,59.0,230.0,000,Fundas,superstar,Ip 11 pro max,rosa,1,,cabocell
+62,superstar_Ip 11 pro max_negro,162,superstar_Ip 11 pro max_negro,59.0,230.0,000,Fundas,superstar,Ip 11 pro max,negro,1,,cabocell
+63,alto impacto_Ip 11 pro max_negro,163,alto impacto_Ip 11 pro max_negro,65.0,250.0,000,Fundas,alto impacto,Ip 11 pro max,negro,2,,cabocell
+64,holster_Ip 12 mini_negro,164,holster_Ip 12 mini_negro,25.0,180.0,000,Fundas,holster,Ip 12 mini,negro,2,,cellhit
+65,macaron matte_Ip 12 mini_rosa,165,macaron matte_Ip 12 mini_rosa,70.0,250.0,000,Fundas,macaron matte,Ip 12 mini,rosa,1,,vlak
+66,macaron matte_Ip 12 mini_negro,166,macaron matte_Ip 12 mini_negro,70.0,250.0,000,Fundas,macaron matte,Ip 12 mini,negro,1,,vlak
+67,macaron matte_Ip 12 _negro,167,macaron matte_Ip 12 _negro,70.0,250.0,000,Fundas,macaron matte,Ip 12 ,negro,1,,vlak
+68,superstar_Ip 12 _morado,168,superstar_Ip 12 _morado,59.0,230.0,000,Fundas,superstar,Ip 12 ,morado,1,,cabocell
+69,superstar_Ip 12 _azul,169,superstar_Ip 12 _azul,59.0,230.0,000,Fundas,superstar,Ip 12 ,azul,1,,cabocell
+70,otter_Ip 12 _rosa,170,otter_Ip 12 _rosa,85.0,250.0,000,Fundas,otter,Ip 12 ,rosa,1,,cabocell
+71,otter_Ip 12 _negro,171,otter_Ip 12 _negro,85.0,250.0,000,Fundas,otter,Ip 12 ,negro,1,,cabocell
+72,macaron matte_Ip 12 _rosa,172,macaron matte_Ip 12 _rosa,70.0,250.0,000,Fundas,macaron matte,Ip 12 ,rosa,1,,vlak
+73,magsafe transparente_Ip 12 pro max_transparente,173,magsafe transparente_Ip 12 pro max_transparente,85.0,260.0,000,Fundas,magsafe transparente,Ip 12 pro max,transparente,2,,vlak
+74,holster_Ip 12 pro max_negro,174,holster_Ip 12 pro max_negro,25.0,180.0,000,Fundas,holster,Ip 12 pro max,negro,2,,cellhit
+75,superstar_Ip 12 pro max_rosa,175,superstar_Ip 12 pro max_rosa,59.0,230.0,000,Fundas,superstar,Ip 12 pro max,rosa,1,,cabocell
+76,superstar_Ip 12 pro max_negro,176,superstar_Ip 12 pro max_negro,59.0,230.0,000,Fundas,superstar,Ip 12 pro max,negro,1,,cabocell
+77,macaron matte_Ip 12 pro max_negro,177,macaron matte_Ip 12 pro max_negro,70.0,250.0,000,Fundas,macaron matte,Ip 12 pro max,negro,1,,vlak
+78,macaron matte_Ip 12 pro max_rosa,178,macaron matte_Ip 12 pro max_rosa,70.0,250.0,000,Fundas,macaron matte,Ip 12 pro max,rosa,1,,vlak
+79,magsafe transparente_Ip 12 pro  _transparente,179,magsafe transparente_Ip 12 pro  _transparente,85.0,260.0,000,Fundas,magsafe transparente,Ip 12 pro  ,transparente,1,,vlak
+80,macaron matte_Ip 12 pro _rosa,180,macaron matte_Ip 12 pro _rosa,70.0,250.0,000,Fundas,macaron matte,Ip 12 pro ,rosa,1,,vlak
+81,macaron matte_Ip 12 pro _negro,181,macaron matte_Ip 12 pro _negro,70.0,250.0,000,Fundas,macaron matte,Ip 12 pro ,negro,1,,vlak
+82,holster_Ip 12 pro _negro,182,holster_Ip 12 pro _negro,25.0,180.0,000,Fundas,holster,Ip 12 pro ,negro,2,,cellhit
+83,macaron matte_Ip 13 mini _negro,183,macaron matte_Ip 13 mini _negro,70.0,250.0,000,Fundas,macaron matte,Ip 13 mini ,negro,1,,vlak
+84,macaron matte_Ip 13 mini _rosa,184,macaron matte_Ip 13 mini _rosa,70.0,250.0,000,Fundas,macaron matte,Ip 13 mini ,rosa,1,,vlak
+85,holster_Ip 13 mini _negro,185,holster_Ip 13 mini _negro,25.0,180.0,000,Fundas,holster,Ip 13 mini ,negro,2,,cellhit
+86,magsafe transparente_Ip 13 _transparente,186,magsafe transparente_Ip 13 _transparente,85.0,260.0,000,Fundas,magsafe transparente,Ip 13 ,transparente,4,,vlak
+87,holster_Ip 13 _negro,187,holster_Ip 13 _negro,25.0,180.0,000,Fundas,holster,Ip 13 ,negro,2,,cellhit
+88,superstar_Ip 13 _morado,188,superstar_Ip 13 _morado,59.0,230.0,000,Fundas,superstar,Ip 13 ,morado,1,,cabocell
+89,superstar_Ip 13 _azul,189,superstar_Ip 13 _azul,59.0,230.0,000,Fundas,superstar,Ip 13 ,azul,1,,cabocell
+90,macaron matte_Ip 13 _rosa,190,macaron matte_Ip 13 _rosa,70.0,250.0,000,Fundas,macaron matte,Ip 13 ,rosa,1,,vlak
+91,macaron matte_Ip 13 _negro,191,macaron matte_Ip 13 _negro,70.0,250.0,000,Fundas,macaron matte,Ip 13 ,negro,1,,vlak
+92,holster_Ip 13 pro _negro,192,holster_Ip 13 pro _negro,25.0,180.0,000,Fundas,holster,Ip 13 pro ,negro,2,,cellhit
+93,superstar_Ip 13 pro _rosa,193,superstar_Ip 13 pro _rosa,59.0,230.0,000,Fundas,superstar,Ip 13 pro ,rosa,1,,cabocell
+94,superstar_Ip 13 pro _negro,194,superstar_Ip 13 pro _negro,59.0,230.0,000,Fundas,superstar,Ip 13 pro ,negro,1,,cabocell
+95,magsafe transparente_Ip 13 pro _transparente,195,magsafe transparente_Ip 13 pro _transparente,85.0,260.0,000,Fundas,magsafe transparente,Ip 13 pro ,transparente,1,,vlak
+96,macaron matte_Ip 13 pro _negro,196,macaron matte_Ip 13 pro _negro,70.0,250.0,000,Fundas,macaron matte,Ip 13 pro ,negro,1,,vlak
+97,macaron matte_Ip 13 pro _rosa,197,macaron matte_Ip 13 pro _rosa,70.0,250.0,000,Fundas,macaron matte,Ip 13 pro ,rosa,1,,vlak
+98,macaron matte_Ip 13 pro max_rosa,198,macaron matte_Ip 13 pro max_rosa,70.0,250.0,000,Fundas,macaron matte,Ip 13 pro max,rosa,1,,vlak
+99,magsafe transparente_Ip 13 pro max_transparente,199,magsafe transparente_Ip 13 pro max_transparente,85.0,260.0,000,Fundas,magsafe transparente,Ip 13 pro max,transparente,3,,vlak
+100,superstar_Ip 13 pro max_morado,200,superstar_Ip 13 pro max_morado,59.0,230.0,000,Fundas,superstar,Ip 13 pro max,morado,1,,cabocell
+101,superstar_Ip 13 pro max_azul,201,superstar_Ip 13 pro max_azul,59.0,230.0,000,Fundas,superstar,Ip 13 pro max,azul,1,,cabocell
+102,holster_Ip 13 pro max_negro,202,holster_Ip 13 pro max_negro,25.0,180.0,000,Fundas,holster,Ip 13 pro max,negro,2,,cellhit
+103,magnetica_ip  6g_roja,203,magnetica_ip  6g_roja,40.0,240.0,000,Fundas,magnetica,ip  6g,roja,1,,cellhit
+104,magnetica_ip 6g_dorada,204,magnetica_ip 6g_dorada,40.0,240.0,000,Fundas,magnetica,ip 6g,dorada,1,,cellhit
+105,superstar_mt e7i power_negro,205,superstar_mt e7i power_negro,59.0,230.0,000,Fundas,superstar,mt e7i power,negro,1,,cabocell
+106,superstar_mt e7i power_rosa,206,superstar_mt e7i power_rosa,59.0,230.0,000,Fundas,superstar,mt e7i power,rosa,1,,cabocell
+107,holster_mt e7 power_negro,207,holster_mt e7 power_negro,25.0,180.0,000,Fundas,holster,mt e7 power,negro,2,,cellhit
+108,acrilico sencillo_mt e7 power_transparente,208,acrilico sencillo_mt e7 power_transparente,49.0,180.0,000,Fundas,acrilico sencillo,mt e7 power,transparente,2,,cabocell
+109,holster_mt g7 plus_negro,209,holster_mt g7 plus_negro,25.0,180.0,000,Fundas,holster,mt g7 plus,negro,2,,cellhit
+110,holster_mt g7 play_negro,210,holster_mt g7 play_negro,25.0,180.0,000,Fundas,holster,mt g7 play,negro,2,,cellhit
+111,space collection_mt g8 plus_transparente,211,space collection_mt g8 plus_transparente,45.0,160.0,000,Fundas,space collection,mt g8 plus,transparente,1,,cellhit
+112,magnetica_mt g8 plus_roja,212,magnetica_mt g8 plus_roja,40.0,240.0,000,Fundas,magnetica,mt g8 plus,roja,1,,cellhit
+113,magnetica_mt g8 plus_dorada,213,magnetica_mt g8 plus_dorada,40.0,240.0,000,Fundas,magnetica,mt g8 plus,dorada,1,,cellhit
+114,magnetica_mt g8 plus_azul,214,magnetica_mt g8 plus_azul,40.0,240.0,000,Fundas,magnetica,mt g8 plus,azul,1,,cellhit
+115,magnetica_mt g8 plus_plateada,215,magnetica_mt g8 plus_plateada,40.0,240.0,000,Fundas,magnetica,mt g8 plus,plateada,1,,cellhit
+116,holster_mt g8 plus_negro,216,holster_mt g8 plus_negro,25.0,180.0,000,Fundas,holster,mt g8 plus,negro,2,,cellhit
+117,holster_mt e6 play_negro,217,holster_mt e6 play_negro,25.0,180.0,000,Fundas,holster,mt e6 play,negro,2,,cellhit
+118,holster_mt g60s_negro,218,holster_mt g60s_negro,25.0,180.0,000,Fundas,holster,mt g60s,negro,4,,cellhit
+119,case colors_mt g60s_morado,219,case colors_mt g60s_morado,10.0,160.0,000,Fundas,case colors,mt g60s,morado,1,,cabocell
+120,case colors_mt g60s_negro,220,case colors_mt g60s_negro,10.0,160.0,000,Fundas,case colors,mt g60s,negro,1,,cabocell
+121,superstar_mt g60s_azul,221,superstar_mt g60s_azul,59.0,230.0,000,Fundas,superstar,mt g60s,azul,1,,cabocell
+122,superstar_mt g60s_rosa,222,superstar_mt g60s_rosa,59.0,230.0,000,Fundas,superstar,mt g60s,rosa,1,,cabocell
+123,holster_Mt one fusion_negro,223,holster_Mt one fusion_negro,25.0,180.0,000,Fundas,holster,Mt one fusion,negro,1,,cellhit
+124,acrilico sencillo_moto e7_transparente,224,acrilico sencillo_moto e7_transparente,49.0,180.0,000,Fundas,acrilico sencillo,moto e7,transparente,2,,cabocell
+125,holster_mt g8 power_negro,225,holster_mt g8 power_negro,25.0,180.0,000,Fundas,holster,mt g8 power,negro,2,,cellhit
+126,space collection_mt g8 power_transparente,226,space collection_mt g8 power_transparente,45.0,160.0,000,Fundas,space collection,mt g8 power,transparente,2,,cellhit
+127,holster_mt g8 power lite_negro,227,holster_mt g8 power lite_negro,25.0,180.0,000,Fundas,holster,mt g8 power lite,negro,2,,cellhit
+128,holster_Mt one vision_negro,228,holster_Mt one vision_negro,25.0,180.0,000,Fundas,holster,Mt one vision,negro,2,,cellhit
+129,acrilico sencillo_mt g10 _transparente,229,acrilico sencillo_mt g10 _transparente,49.0,180.0,000,Fundas,acrilico sencillo,mt g10 ,transparente,2,,cabocell
+130,case colors_mt g/10/20/30_azul marino,230,case colors_mt g/10/20/30_azul marino,10.0,160.0,000,Fundas,case colors,mt g/10/20/30,azul marino,1,,cabocell
+131,case colors_mt g10/20/30_rosa,231,case colors_mt g10/20/30_rosa,10.0,160.0,000,Fundas,case colors,mt g10/20/30,rosa,1,,cabocell
+132,acrilico sencillo_mt g10/20/30_transparente,232,acrilico sencillo_mt g10/20/30_transparente,49.0,180.0,000,Fundas,acrilico sencillo,mt g10/20/30,transparente,1,,cabocell
+133,fosfo transparente_mt g10/20/30_colores,233,fosfo transparente_mt g10/20/30_colores,,,000,Fundas,fosfo transparente,mt g10/20/30,colores,2,,
+134,holster_mt g7 power_negro,234,holster_mt g7 power_negro,25.0,180.0,000,Fundas,holster,mt g7 power,negro,2,,cellhit
+135,space collection_mt one fusion_transparente,235,space collection_mt one fusion_transparente,45.0,160.0,000,Fundas,space collection,mt one fusion,transparente,2,,cellhit
+136,superstar_mt one fusion_rosa,236,superstar_mt one fusion_rosa,59.0,230.0,000,Fundas,superstar,mt one fusion,rosa,2,,cabocell
+137,holster_mt one fusion_negro,237,holster_mt one fusion_negro,25.0,180.0,000,Fundas,holster,mt one fusion,negro,1,,cellhit
+138,space collection_mt g60_transparente,238,space collection_mt g60_transparente,45.0,160.0,000,Fundas,space collection,mt g60,transparente,1,,cellhit
+139,acrilico sencillo_mt g60_transparente,239,acrilico sencillo_mt g60_transparente,49.0,180.0,000,Fundas,acrilico sencillo,mt g60,transparente,1,,cabocell
+140,space collection_mt g8 _transparente,240,space collection_mt g8 _transparente,45.0,160.0,000,Fundas,space collection,mt g8 ,transparente,1,,cellhit
+141,acrilico sencillo_mt g50_transparente,241,acrilico sencillo_mt g50_transparente,49.0,180.0,000,Fundas,acrilico sencillo,mt g50,transparente,2,,cabocell
+142,space collection_mt g9 play_transparente,242,space collection_mt g9 play_transparente,45.0,160.0,000,Fundas,space collection,mt g9 play,transparente,3,,cellhit
+143,case cute_mt g9 play_gris,243,case cute_mt g9 play_gris,25.0,200.0,000,Fundas,case cute,mt g9 play,gris,2,,cabocell
+144,case cute_mt g9 play_transparente,244,case cute_mt g9 play_transparente,25.0,200.0,000,Fundas,case cute,mt g9 play,transparente,1,,cabocell
+145,fosfo transparente_mt g9 play_colores,245,fosfo transparente_mt g9 play_colores,,,000,Fundas,fosfo transparente,mt g9 play,colores,2,,
+146,alto impacto_mt g9 play_negro,246,alto impacto_mt g9 play_negro,65.0,250.0,000,Fundas,alto impacto,mt g9 play,negro,1,,cabocell
+147,holster_mt g9 play_negro,247,holster_mt g9 play_negro,25.0,180.0,000,Fundas,holster,mt g9 play,negro,2,,cellhit
+148,holster_mt g9 plus_negro,248,holster_mt g9 plus_negro,25.0,180.0,000,Fundas,holster,mt g9 plus,negro,2,,cellhit
+149,space collection_mt g9 plus_transparente,249,space collection_mt g9 plus_transparente,45.0,160.0,000,Fundas,space collection,mt g9 plus,transparente,2,,cellhit
+150,alto impacto_mt g9 plus_rojo,250,alto impacto_mt g9 plus_rojo,65.0,250.0,000,Fundas,alto impacto,mt g9 plus,rojo,1,,cabocell
+151,alto impacto_mt g9 plus_negro,251,alto impacto_mt g9 plus_negro,65.0,250.0,000,Fundas,alto impacto,mt g9 plus,negro,1,,cabocell
+152,guess_mt g9 plus_negro,252,guess_mt g9 plus_negro,50.0,220.0,000,Fundas,guess,mt g9 plus,negro,2,,cellhit
+153,calvinklein_mt g9 plus_blanco,253,calvinklein_mt g9 plus_blanco,50.0,220.0,000,Fundas,calvinklein,mt g9 plus,blanco,2,,cellhit
+154,holster_mt g9 power_negro,254,holster_mt g9 power_negro,25.0,180.0,000,Fundas,holster,mt g9 power,negro,2,,cellhit
+155,case cute_mt g9 power_rosa,255,case cute_mt g9 power_rosa,25.0,200.0,000,Fundas,case cute,mt g9 power,rosa,1,,cabocell
+156,case cute_mt g9 power_gris,256,case cute_mt g9 power_gris,25.0,200.0,000,Fundas,case cute,mt g9 power,gris,1,,cabocell
+157,case cute_mt g9 power_transparente,257,case cute_mt g9 power_transparente,25.0,200.0,000,Fundas,case cute,mt g9 power,transparente,1,,cabocell
+158,alto impacto_mt g9 power_negro,258,alto impacto_mt g9 power_negro,65.0,250.0,000,Fundas,alto impacto,mt g9 power,negro,1,,cabocell
+159,alto impacto_mt g9 power_rojo,259,alto impacto_mt g9 power_rojo,65.0,250.0,000,Fundas,alto impacto,mt g9 power,rojo,1,,cabocell
+160,holster_mt g30_negro,260,holster_mt g30_negro,25.0,180.0,000,Fundas,holster,mt g30,negro,2,,cellhit
+161,superstar_mt e20_azul,261,superstar_mt e20_azul,59.0,230.0,000,Fundas,superstar,mt e20,azul,1,,cabocell
+162,superstar_mt e20_morado,262,superstar_mt e20_morado,59.0,230.0,000,Fundas,superstar,mt e20,morado,1,,cabocell
+163,superstar_mt g50_negro,263,superstar_mt g50_negro,59.0,230.0,000,Fundas,superstar,mt g50,negro,1,,cabocell
+164,superstar_mt g50_rosa,264,superstar_mt g50_rosa,59.0,230.0,000,Fundas,superstar,mt g50,rosa,1,,cabocell
+165,case colors_mt g100_amarillo,265,case colors_mt g100_amarillo,10.0,160.0,000,Fundas,case colors,mt g100,amarillo,1,,cabocell
+166,case colors_mt g100_naranja,266,case colors_mt g100_naranja,10.0,160.0,000,Fundas,case colors,mt g100,naranja,1,,cabocell
+167,superstar_op a15_azul,267,superstar_op a15_azul,59.0,230.0,000,Fundas,superstar,op a15,azul,1,,cabocell
+168,superstar_op a15_morado,268,superstar_op a15_morado,59.0,230.0,000,Fundas,superstar,op a15,morado,1,,cabocell
+169,holster_op a15_negro,269,holster_op a15_negro,25.0,180.0,000,Fundas,holster,op a15,negro,2,,cellhit
+170,superstar_op a15_negro,270,superstar_op a15_negro,59.0,230.0,000,Fundas,superstar,op a15,negro,1,,cabocell
+171,superstar_op a12_rosa,271,superstar_op a12_rosa,59.0,230.0,000,Fundas,superstar,op a12,rosa,1,,cabocell
+172,holster_op a12_negro,272,holster_op a12_negro,25.0,180.0,000,Fundas,holster,op a12,negro,2,,cellhit
+173,alto impacto_op a12_negro,273,alto impacto_op a12_negro,65.0,250.0,000,Fundas,alto impacto,op a12,negro,1,,cabocell
+174,alto impacto_op a12_rojo,274,alto impacto_op a12_rojo,65.0,250.0,000,Fundas,alto impacto,op a12,rojo,1,,cabocell
+175,superstar_op a16_rosa,275,superstar_op a16_rosa,59.0,230.0,000,Fundas,superstar,op a16,rosa,1,,cabocell
+176,superstar_op a16_negro,276,superstar_op a16_negro,59.0,230.0,000,Fundas,superstar,op a16,negro,1,,cabocell
+177,alto impacto_op a16_negro,277,alto impacto_op a16_negro,65.0,250.0,000,Fundas,alto impacto,op a16,negro,1,,cabocell
+178,alto impacto_op a16_azul,278,alto impacto_op a16_azul,65.0,250.0,000,Fundas,alto impacto,op a16,azul,1,,cabocell
+179,superstar_op a16_azul,279,superstar_op a16_azul,59.0,230.0,000,Fundas,superstar,op a16,azul,1,,cabocell
+180,superstar_op a16_morado,280,superstar_op a16_morado,59.0,230.0,000,Fundas,superstar,op a16,morado,1,,cabocell
+181,holster_sam a01_negro,281,holster_sam a01_negro,25.0,180.0,000,Fundas,holster,sam a01,negro,2,,cellhit
+182,nike madera_sam a01_madera,282,nike madera_sam a01_madera,10.0,120.0,000,Fundas,nike madera,sam a01,madera,4,,cellhit
+183,jordan madera_sam a01_madera,283,jordan madera_sam a01_madera,10.0,120.0,000,Fundas,jordan madera,sam a01,madera,2,,cellhit
+184,superstar_Sam 03 core_morado,284,superstar_Sam 03 core_morado,59.0,230.0,000,Fundas,superstar,Sam 03 core,morado,1,,cabocell
+185,superstar_Sam 03 core_azul,285,superstar_Sam 03 core_azul,59.0,230.0,000,Fundas,superstar,Sam 03 core,azul,1,,cabocell
+186,jordan madera_Sam 03 core_madera,286,jordan madera_Sam 03 core_madera,10.0,120.0,000,Fundas,jordan madera,Sam 03 core,madera,2,,cellhit
+187,holster_Sam 03 core_negro,287,holster_Sam 03 core_negro,25.0,180.0,000,Fundas,holster,Sam 03 core,negro,2,,cellhit
+188,guess_sam a02s_blanco,288,guess_sam a02s_blanco,50.0,220.0,000,Fundas,guess,sam a02s,blanco,2,,cellhit
+189,holster_sam a02s_negro,289,holster_sam a02s_negro,25.0,180.0,000,Fundas,holster,sam a02s,negro,1,,cellhit
+190,space collection_sam a02s_transparente,290,space collection_sam a02s_transparente,45.0,160.0,000,Fundas,space collection,sam a02s,transparente,2,,cellhit
+191,calvinklein_sam a02s_negro,291,calvinklein_sam a02s_negro,50.0,220.0,000,Fundas,calvinklein,sam a02s,negro,3,,cellhit
+192,fosforescentes_sam a02s_azul,292,fosforescentes_sam a02s_azul,64.0,240.0,000,Fundas,fosforescentes,sam a02s,azul,1,,cabocell
+193,fosforescentes_sam a02s_amarillo,293,fosforescentes_sam a02s_amarillo,64.0,240.0,000,Fundas,fosforescentes,sam a02s,amarillo,1,,cabocell
+194,superstar_Sam 03 _rosa,294,superstar_Sam 03 _rosa,59.0,230.0,000,Fundas,superstar,Sam 03 ,rosa,1,,cabocell
+195,superstar_Sam 03 _negro,295,superstar_Sam 03 _negro,59.0,230.0,000,Fundas,superstar,Sam 03 ,negro,1,,cabocell
+196,case colors_Sam 03 _rosa,296,case colors_Sam 03 _rosa,10.0,160.0,000,Fundas,case colors,Sam 03 ,rosa,1,,cabocell
+197,case colors_Sam 03 _negro,297,case colors_Sam 03 _negro,10.0,160.0,000,Fundas,case colors,Sam 03 ,negro,1,,cabocell
+198,acrilico sencillo_Sam 03 _transparente,298,acrilico sencillo_Sam 03 _transparente,49.0,180.0,000,Fundas,acrilico sencillo,Sam 03 ,transparente,2,,cabocell
+199,holster_Sam 03 _negro,299,holster_Sam 03 _negro,25.0,180.0,000,Fundas,holster,Sam 03 ,negro,2,,cellhit
+200,holster_sam 03s_negro,300,holster_sam 03s_negro,25.0,180.0,000,Fundas,holster,sam 03s,negro,2,,cellhit
+201,case colors_sam 03s_rosa,301,case colors_sam 03s_rosa,10.0,160.0,000,Fundas,case colors,sam 03s,rosa,1,,cabocell
+202,superstar_sam 03s_rosa,302,superstar_sam 03s_rosa,59.0,230.0,000,Fundas,superstar,sam 03s,rosa,1,,cabocell
+203,case colors_sam 03s_tinto,303,case colors_sam 03s_tinto,10.0,160.0,000,Fundas,case colors,sam 03s,tinto,1,,cabocell
+204,superstar_sam 03s_negro,304,superstar_sam 03s_negro,59.0,230.0,000,Fundas,superstar,sam 03s,negro,1,,cabocell
+205,fosforescentes_sam 03s_naranja,305,fosforescentes_sam 03s_naranja,64.0,240.0,000,Fundas,fosforescentes,sam 03s,naranja,1,,cabocell
+206,fosforescentes_sam 03s_rosa,306,fosforescentes_sam 03s_rosa,64.0,240.0,000,Fundas,fosforescentes,sam 03s,rosa,1,,cabocell
+207,jordan madera_sam a10s_madera,307,jordan madera_sam a10s_madera,10.0,120.0,000,Fundas,jordan madera,sam a10s,madera,2,,cellhit
+208,holster_sam a10s_negro,308,holster_sam a10s_negro,25.0,180.0,000,Fundas,holster,sam a10s,negro,2,,cellhit
+209,holster_sam a03 core_negro,309,holster_sam a03 core_negro,25.0,180.0,000,Fundas,holster,sam a03 core,negro,2,,cellhit
+210,case colors_sam a03 core_morado,310,case colors_sam a03 core_morado,10.0,160.0,000,Fundas,case colors,sam a03 core,morado,1,,cabocell
+211,acrilico sencillo_sam a03 core_transparente,311,acrilico sencillo_sam a03 core_transparente,49.0,180.0,000,Fundas,acrilico sencillo,sam a03 core,transparente,2,,cabocell
+212,case colors_sam a03 core_azul marino,312,case colors_sam a03 core_azul marino,10.0,160.0,000,Fundas,case colors,sam a03 core,azul marino,1,,cabocell
+213,holster_sam a20/30/50_negro,313,holster_sam a20/30/50_negro,25.0,180.0,000,Fundas,holster,sam a20/30/50,negro,1,,cellhit
+214,nike madera_sam a20/30/50_madera,314,nike madera_sam a20/30/50_madera,10.0,120.0,000,Fundas,nike madera,sam a20/30/50,madera,2,,cellhit
+215,guess_sam a20/30_blanco,315,guess_sam a20/30_blanco,50.0,220.0,000,Fundas,guess,sam a20/30,blanco,2,,cellhit
+216,calvinklein_sam a20/30_negro,316,calvinklein_sam a20/30_negro,50.0,220.0,000,Fundas,calvinklein,sam a20/30,negro,2,,cellhit
+217,magnetica_sam a10s_plateada,317,magnetica_sam a10s_plateada,40.0,240.0,000,Fundas,magnetica,sam a10s,plateada,1,,cellhit
+218,jordan madera_sam a10_madera,318,jordan madera_sam a10_madera,10.0,120.0,000,Fundas,jordan madera,sam a10,madera,2,,cellhit
+219,nike madera_sam a10_madera,319,nike madera_sam a10_madera,10.0,120.0,000,Fundas,nike madera,sam a10,madera,2,,cellhit
+220,holster_sam a10_negro,320,holster_sam a10_negro,25.0,180.0,000,Fundas,holster,sam a10,negro,2,,cellhit
+221,magnetica_sam a10_morado,321,magnetica_sam a10_morado,40.0,240.0,000,Fundas,magnetica,sam a10,morado,1,,cellhit
+222,magnetica_sam a11_rojo,322,magnetica_sam a11_rojo,40.0,240.0,000,Fundas,magnetica,sam a11,rojo,1,,cellhit
+223,magnetica_sam a11_negro,323,magnetica_sam a11_negro,40.0,240.0,000,Fundas,magnetica,sam a11,negro,1,,cellhit
+224,space collection_sam a11_transparente,324,space collection_sam a11_transparente,45.0,160.0,000,Fundas,space collection,sam a11,transparente,2,,cellhit
+225,holster_sam a11_negro,325,holster_sam a11_negro,25.0,180.0,000,Fundas,holster,sam a11,negro,1,,cellhit
+226,nike madera_sam a11_madera,326,nike madera_sam a11_madera,10.0,120.0,000,Fundas,nike madera,sam a11,madera,2,,cellhit
+227,jordan madera_sam a11_madera,327,jordan madera_sam a11_madera,10.0,120.0,000,Fundas,jordan madera,sam a11,madera,2,,cellhit
+228,holster_sam a12_negro,328,holster_sam a12_negro,25.0,180.0,000,Fundas,holster,sam a12,negro,2,,cellhit
+229,macaron matte_sam a12_negro,329,macaron matte_sam a12_negro,70.0,250.0,000,Fundas,macaron matte,sam a12,negro,1,,vlak
+230,holster_sam a13 5g_negro,330,holster_sam a13 5g_negro,25.0,180.0,000,Fundas,holster,sam a13 5g,negro,2,,cellhit
+231,case colors_sam a13 5g_negro,331,case colors_sam a13 5g_negro,10.0,160.0,000,Fundas,case colors,sam a13 5g,negro,1,,cabocell
+232,acrilico sencillo_sam a13 5g_transparente,332,acrilico sencillo_sam a13 5g_transparente,49.0,180.0,000,Fundas,acrilico sencillo,sam a13 5g,transparente,2,,cabocell
+233,case colors_sam a13 5g_rojo,333,case colors_sam a13 5g_rojo,10.0,160.0,000,Fundas,case colors,sam a13 5g,rojo,1,,cabocell
+234,macaron matte_sam a13 5g_morado,334,macaron matte_sam a13 5g_morado,70.0,250.0,000,Fundas,macaron matte,sam a13 5g,morado,1,,vlak
+235,holster_sam a20s_negro,335,holster_sam a20s_negro,25.0,180.0,000,Fundas,holster,sam a20s,negro,2,,cellhit
+236,nike madera_sam a20s_madera,336,nike madera_sam a20s_madera,10.0,120.0,000,Fundas,nike madera,sam a20s,madera,2,,cellhit
+237,jordan madera_sam a20s_madera,337,jordan madera_sam a20s_madera,10.0,120.0,000,Fundas,jordan madera,sam a20s,madera,2,,cellhit
+238,space collection_sam a21s_transparente,338,space collection_sam a21s_transparente,45.0,160.0,000,Fundas,space collection,sam a21s,transparente,2,,cellhit
+239,jordan madera_sam a21s_madera,339,jordan madera_sam a21s_madera,10.0,120.0,000,Fundas,jordan madera,sam a21s,madera,2,,cellhit
+240,nike madera_sam a21s_madera,340,nike madera_sam a21s_madera,10.0,120.0,000,Fundas,nike madera,sam a21s,madera,1,,cellhit
+241,holster_sam a21_madera,341,holster_sam a21_madera,25.0,180.0,000,Fundas,holster,sam a21,madera,2,,cellhit
+242,jordan madera_sam a21_madera,342,jordan madera_sam a21_madera,10.0,120.0,000,Fundas,jordan madera,sam a21,madera,2,,cellhit
+243,space collection_sam a21_transparente,343,space collection_sam a21_transparente,45.0,160.0,000,Fundas,space collection,sam a21,transparente,2,,cellhit
+244,nike madera_sam a50s/30s_madera,344,nike madera_sam a50s/30s_madera,10.0,120.0,000,Fundas,nike madera,sam a50s/30s,madera,2,,cellhit
+245,jordan madera_sam a50s/30s_madera,345,jordan madera_sam a50s/30s_madera,10.0,120.0,000,Fundas,jordan madera,sam a50s/30s,madera,2,,cellhit
+246,holster_sam a50s/30s_negro,346,holster_sam a50s/30s_negro,25.0,180.0,000,Fundas,holster,sam a50s/30s,negro,2,,cellhit
+247,holster_sam a22 5g_negro,347,holster_sam a22 5g_negro,25.0,180.0,000,Fundas,holster,sam a22 5g,negro,2,,cellhit
+248,holster_sam a224g_negro,348,holster_sam a224g_negro,25.0,180.0,000,Fundas,holster,sam a224g,negro,2,,cellhit
+249,space collection_sam a22 4g_transparente,349,space collection_sam a22 4g_transparente,45.0,160.0,000,Fundas,space collection,sam a22 4g,transparente,1,,cellhit
+250,guess_sam a22 4g_blanco,350,guess_sam a22 4g_blanco,50.0,220.0,000,Fundas,guess,sam a22 4g,blanco,2,,cellhit
+251,calvinklein_sam a22 4g_negro,351,calvinklein_sam a22 4g_negro,50.0,220.0,000,Fundas,calvinklein,sam a22 4g,negro,2,,cellhit
+252,holster_sam a31_negro,352,holster_sam a31_negro,25.0,180.0,000,Fundas,holster,sam a31,negro,2,,cellhit
+253,space collection_sam a31_transparente,353,space collection_sam a31_transparente,45.0,160.0,000,Fundas,space collection,sam a31,transparente,2,,cellhit
+254,holster_sam j2 prime_negro,354,holster_sam j2 prime_negro,25.0,180.0,000,Fundas,holster,sam j2 prime,negro,4,,cellhit
+255,holster_sam j4 2018_negro,355,holster_sam j4 2018_negro,25.0,180.0,000,Fundas,holster,sam j4 2018,negro,2,,cellhit
+256,holster_Sam 4 plus core_negro,356,holster_Sam 4 plus core_negro,25.0,180.0,000,Fundas,holster,Sam 4 plus core,negro,2,,cellhit
+257,case colors_sam j7 2018_azul marino,357,case colors_sam j7 2018_azul marino,10.0,160.0,000,Fundas,case colors,sam j7 2018,azul marino,1,,cabocell
+258,case colors_sam j7 2018_rojo,358,case colors_sam j7 2018_rojo,10.0,160.0,000,Fundas,case colors,sam j7 2018,rojo,1,,cabocell
+259,case colors_sam j7 2018_rosa,359,case colors_sam j7 2018_rosa,10.0,160.0,000,Fundas,case colors,sam j7 2018,rosa,1,,cabocell
+260,holster_sam j7 2018_negro,360,holster_sam j7 2018_negro,25.0,180.0,000,Fundas,holster,sam j7 2018,negro,2,,cellhit
+261,holster_sam j8 2018_negro,361,holster_sam j8 2018_negro,25.0,180.0,000,Fundas,holster,sam j8 2018,negro,2,,cellhit
+262,holster_sam j7 prime_negro,362,holster_sam j7 prime_negro,25.0,180.0,000,Fundas,holster,sam j7 prime,negro,2,,cellhit
+263,nike madera_sam a52_madera,363,nike madera_sam a52_madera,10.0,120.0,000,Fundas,nike madera,sam a52,madera,2,,cellhit
+264,jordan madera_sam a52_madera,364,jordan madera_sam a52_madera,10.0,120.0,000,Fundas,jordan madera,sam a52,madera,2,,cellhit
+265,guess_sam a52_blanco,365,guess_sam a52_blanco,50.0,220.0,000,Fundas,guess,sam a52,blanco,2,,cellhit
+266,calvinklein_sam a52_negro,366,calvinklein_sam a52_negro,50.0,220.0,000,Fundas,calvinklein,sam a52,negro,1,,cellhit
+267,holster_sam a02_negro,367,holster_sam a02_negro,25.0,180.0,000,Fundas,holster,sam a02,negro,1,,cellhit
+268,calvinklein_sam a02_nero,368,calvinklein_sam a02_nero,50.0,220.0,000,Fundas,calvinklein,sam a02,nero,2,,cellhit
+269,guess_sam a02_blanco,369,guess_sam a02_blanco,50.0,220.0,000,Fundas,guess,sam a02,blanco,2,,cellhit
+270,nike madera_sam a51/m4os/a31   madera_,370,nike madera_sam a51/m4os/a31   madera_,10.0,120.0,000,Fundas,nike madera,sam a51/m4os/a31   madera,,2,,cellhit
+271,jordan madera_sam a51/m4os/a31   madera_,371,jordan madera_sam a51/m4os/a31   madera_,10.0,120.0,000,Fundas,jordan madera,sam a51/m4os/a31   madera,,2,,cellhit
+272,nike madera_sam a10s/m01s_madera,372,nike madera_sam a10s/m01s_madera,10.0,120.0,000,Fundas,nike madera,sam a10s/m01s,madera,2,,cellhit
+273,guess_sam a50_blanco,373,guess_sam a50_blanco,50.0,220.0,000,Fundas,guess,sam a50,blanco,1,,cellhit
+274,calvinklein_sam a50_negro,374,calvinklein_sam a50_negro,50.0,220.0,000,Fundas,calvinklein,sam a50,negro,2,,cellhit
+275,space collection_sam a50_transparente,375,space collection_sam a50_transparente,45.0,160.0,000,Fundas,space collection,sam a50,transparente,2,,cellhit
+276,guess_Sam a51 4g_blanco,376,guess_Sam a51 4g_blanco,50.0,220.0,000,Fundas,guess,Sam a51 4g,blanco,2,,cellhit
+277,calvinklein_sam a51 4g_negro,377,calvinklein_sam a51 4g_negro,50.0,220.0,000,Fundas,calvinklein,sam a51 4g,negro,2,,cellhit
+278,space collection_sam a51 4g_transparente,378,space collection_sam a51 4g_transparente,45.0,160.0,000,Fundas,space collection,sam a51 4g,transparente,2,,cellhit
+279,case colors_sam j6_azul marino,379,case colors_sam j6_azul marino,10.0,160.0,000,Fundas,case colors,sam j6,azul marino,2,,cabocell
+280,case colors_sam j6_rosa,380,case colors_sam j6_rosa,10.0,160.0,000,Fundas,case colors,sam j6,rosa,1,,cabocell
+281,guess_sam a71 4g_blanco,381,guess_sam a71 4g_blanco,50.0,220.0,000,Fundas,guess,sam a71 4g,blanco,2,,cellhit
+282,calvinklein_sam a71 4g_negro,382,calvinklein_sam a71 4g_negro,50.0,220.0,000,Fundas,calvinklein,sam a71 4g,negro,2,,cellhit
+283,space collection_Sam 520 plus_transparente,383,space collection_Sam 520 plus_transparente,45.0,160.0,000,Fundas,space collection,Sam 520 plus,transparente,1,,cellhit
+284,cartera _universal_rosa,384,cartera _universal_rosa,,,000,Fundas,cartera ,universal,rosa,2,,
+285,cartera _universal_negro,385,cartera _universal_negro,,,000,Fundas,cartera ,universal,negro,2,,
+286,cartera _universal_colores,386,cartera _universal_colores,,,000,Fundas,cartera ,universal,colores,1,,
+287,funda universal_4.5-5.1_negro,387,funda universal_4.5-5.1_negro,,,000,Fundas,funda universal,4.5-5.1,negro,5,,
+288,funda universal_5.2-5.5_negro,388,funda universal_5.2-5.5_negro,,,000,Fundas,funda universal,5.2-5.5,negro,5,,
+289,funda universal_5.7-6.3_negro,389,funda universal_5.7-6.3_negro,,,000,Fundas,funda universal,5.7-6.3,negro,5,,
+290,holster_hw p30 lite_negro,390,holster_hw p30 lite_negro,25.0,180.0,000,Fundas,holster,hw p30 lite,negro,2,,cellhit
+291,holster_hw p40_negro,391,holster_hw p40_negro,25.0,180.0,000,Fundas,holster,hw p40,negro,4,,cellhit
+292,holster_Hw Y9 2019_negro,392,holster_Hw Y9 2019_negro,25.0,180.0,000,Fundas,holster,Hw Y9 2019,negro,2,,cellhit
+293,calvinklein_Hw Y9 2019_negro,393,calvinklein_Hw Y9 2019_negro,50.0,220.0,000,Fundas,calvinklein,Hw Y9 2019,negro,1,,cellhit
+294,calvinklein_Hw Y9 2019_blanco,394,calvinklein_Hw Y9 2019_blanco,50.0,220.0,000,Fundas,calvinklein,Hw Y9 2019,blanco,2,,cellhit
+295,holster_hw m20 lite_negro,395,holster_hw m20 lite_negro,25.0,180.0,000,Fundas,holster,hw m20 lite,negro,2,,cellhit
+296,holster_Hw nova 8i_negro,396,holster_Hw nova 8i_negro,25.0,180.0,000,Fundas,holster,Hw nova 8i,negro,2,,cellhit
+297,holster_Hw Nova 9/50 5g_ negro,397,holster_Hw Nova 9/50 5g_ negro,25.0,180.0,000,Fundas,holster,Hw Nova 9/50 5g, negro,2,,cellhit
+298,holster_hw mate 20 lite_negro,398,holster_hw mate 20 lite_negro,25.0,180.0,000,Fundas,holster,hw mate 20 lite,negro,1,,cellhit
+299,holster_Hw Nova 8_negro,399,holster_Hw Nova 8_negro,25.0,180.0,000,Fundas,holster,Hw Nova 8,negro,2,,cellhit
+300,silicone cover_Hw p smart 2019_naranja,400,silicone cover_Hw p smart 2019_naranja,10.0,200.0,000,Fundas,silicone cover,Hw p smart 2019,naranja,2,,cabocell
+301,silicone cover_Hw p smart 2019 rosa_rosa,401,silicone cover_Hw p smart 2019 rosa_rosa,10.0,200.0,000,Fundas,silicone cover,Hw p smart 2019 rosa,rosa,1,,cabocell
+302,space collection_hw p30 pro_transparente,402,space collection_hw p30 pro_transparente,45.0,160.0,000,Fundas,space collection,hw p30 pro,transparente,2,,cellhit
+303,silicone cover_hw p 30_rosa,403,silicone cover_hw p 30_rosa,10.0,200.0,000,Fundas,silicone cover,hw p 30,rosa,1,,cabocell
+304,silicone cover_hw p30 _naranja,404,silicone cover_hw p30 _naranja,10.0,200.0,000,Fundas,silicone cover,hw p30 ,naranja,2,,cabocell
+305,calvinklein_hw y9 prime_blanco,405,calvinklein_hw y9 prime_blanco,50.0,220.0,000,Fundas,calvinklein,hw y9 prime,blanco,2,,cellhit
+306,holster_hw y9 prime_negro,406,holster_hw y9 prime_negro,25.0,180.0,000,Fundas,holster,hw y9 prime,negro,2,,cellhit
+307,guess_hw y9 prime_negro,407,guess_hw y9 prime_negro,50.0,220.0,000,Fundas,guess,hw y9 prime,negro,2,,cellhit
+308,holster_hw y6s_negro,408,holster_hw y6s_negro,25.0,180.0,000,Fundas,holster,hw y6s,negro,2,,cellhit
+309,holster_hw y9s_negro,409,holster_hw y9s_negro,25.0,180.0,000,Fundas,holster,hw y9s,negro,2,,cellhit
+310,holster_hw y9 2018_negro,410,holster_hw y9 2018_negro,25.0,180.0,000,Fundas,holster,hw y9 2018,negro,2,,cellhit
+311,holster_hw y7 pro_negro,411,holster_hw y7 pro_negro,25.0,180.0,000,Fundas,holster,hw y7 pro,negro,2,,cellhit
+312,superstar_hw y9a_negro,412,superstar_hw y9a_negro,59.0,230.0,000,Fundas,superstar,hw y9a,negro,1,,cabocell
+313,superstar_hw y9a_rosa,413,superstar_hw y9a_rosa,59.0,230.0,000,Fundas,superstar,hw y9a,rosa,1,,cabocell
+314,holster_hw y9a_negro ,414,holster_hw y9a_negro ,25.0,180.0,000,Fundas,holster,hw y9a,negro ,2,,cellhit
+315,guess_hw y9a_negro,415,guess_hw y9a_negro,50.0,220.0,000,Fundas,guess,hw y9a,negro,1,,cellhit
+316,case cute_hw y9a_rosa,416,case cute_hw y9a_rosa,25.0,200.0,000,Fundas,case cute,hw y9a,rosa,1,,cabocell
+317,case cute_hw y9a_morado,417,case cute_hw y9a_morado,25.0,200.0,000,Fundas,case cute,hw y9a,morado,1,,cabocell
+318,silicone cover_hw nova 3i_rosa,418,silicone cover_hw nova 3i_rosa,10.0,200.0,000,Fundas,silicone cover,hw nova 3i,rosa,1,,cabocell
+319,silicone cover_hw nova 3i_gris,419,silicone cover_hw nova 3i_gris,10.0,200.0,000,Fundas,silicone cover,hw nova 3i,gris,1,,cabocell
+320,silicone cover_hw nova 3i_negro,420,silicone cover_hw nova 3i_negro,10.0,200.0,000,Fundas,silicone cover,hw nova 3i,negro,1,,cabocell
+321,space collection_hw y6p_transparente,421,space collection_hw y6p_transparente,45.0,160.0,000,Fundas,space collection,hw y6p,transparente,2,,cellhit
+322,case cute_hw y6p_rosa,422,case cute_hw y6p_rosa,25.0,200.0,000,Fundas,case cute,hw y6p,rosa,3,,cabocell
+323,nike madera_hw p30 _madera,423,nike madera_hw p30 _madera,10.0,120.0,000,Fundas,nike madera,hw p30 ,madera,2,,cellhit
+324,case cute_hw y7p 2020_rosa,424,case cute_hw y7p 2020_rosa,25.0,200.0,000,Fundas,case cute,hw y7p 2020,rosa,3,,cabocell
+325,space collection_hw y6p 2020_transparente,425,space collection_hw y6p 2020_transparente,45.0,160.0,000,Fundas,space collection,hw y6p 2020,transparente,2,,cellhit
+326,case cute_hw y6p 2020_rosa,426,case cute_hw y6p 2020_rosa,25.0,200.0,000,Fundas,case cute,hw y6p 2020,rosa,3,,cabocell
+327,case cute_hw y7a_rosa,427,case cute_hw y7a_rosa,25.0,200.0,000,Fundas,case cute,hw y7a,rosa,1,,cabocell
+328,case cute _hw y7a_azul,428,case cute _hw y7a_azul,,,000,Fundas,case cute ,hw y7a,azul,0,,
+329,case cute_hw y7a_gris,429,case cute_hw y7a_gris,25.0,200.0,000,Fundas,case cute,hw y7a,gris,1,,cabocell
+330,silicone cover_hw y7 2019_menta,430,silicone cover_hw y7 2019_menta,10.0,200.0,000,Fundas,silicone cover,hw y7 2019,menta,1,,cabocell
+331,silicone cover_hw y7 2019_rosa,431,silicone cover_hw y7 2019_rosa,10.0,200.0,000,Fundas,silicone cover,hw y7 2019,rosa,1,,cabocell
+332,silicone cover_hw y7 2019_naranja,432,silicone cover_hw y7 2019_naranja,10.0,200.0,000,Fundas,silicone cover,hw y7 2019,naranja,1,,cabocell
+333,space collection_hw y8p_transparente,433,space collection_hw y8p_transparente,45.0,160.0,000,Fundas,space collection,hw y8p,transparente,2,,cellhit
+334,space collection_Hw 40 pro_transparente,434,space collection_Hw 40 pro_transparente,45.0,160.0,000,Fundas,space collection,Hw 40 pro,transparente,2,,cellhit
+335,space collection_hw p40 lite_transparente,435,space collection_hw p40 lite_transparente,45.0,160.0,000,Fundas,space collection,hw p40 lite,transparente,2,,cellhit
+336,holster_hw y7 2018_negro,436,holster_hw y7 2018_negro,25.0,180.0,000,Fundas,holster,hw y7 2018,negro,2,,cellhit
+337,alto impacto_Xm 12 pro_negro,437,alto impacto_Xm 12 pro_negro,65.0,250.0,000,Fundas,alto impacto,Xm 12 pro,negro,1,,cabocell
+338,alto impacto_Xm 12/12x_azul marino,438,alto impacto_Xm 12/12x_azul marino,65.0,250.0,000,Fundas,alto impacto,Xm 12/12x,azul marino,1,,cabocell
+339,space collection_hw y9 prime_transparente,439,space collection_hw y9 prime_transparente,45.0,160.0,000,Fundas,space collection,hw y9 prime,transparente,2,,cellhit
+340,space collection_hw p smart 2020 transparente_,440,space collection_hw p smart 2020 transparente_,45.0,160.0,000,Fundas,space collection,hw p smart 2020 transparente,,2,,cellhit
+341,holster_xm redmi 9a_negro,441,holster_xm redmi 9a_negro,25.0,180.0,000,Fundas,holster,xm redmi 9a,negro,1,,cellhit
+342,macaron matte_xm reno 6lite/a74   negro_,442,macaron matte_xm reno 6lite/a74   negro_,70.0,250.0,000,Fundas,macaron matte,xm reno 6lite/a74   negro,,1,,vlak
+343,holster_xm redmi 9c_negro,443,holster_xm redmi 9c_negro,25.0,180.0,000,Fundas,holster,xm redmi 9c,negro,2,,cellhit
+344,alto impacto_xm note 11 pro_azul marino,444,alto impacto_xm note 11 pro_azul marino,65.0,250.0,000,Fundas,alto impacto,xm note 11 pro,azul marino,1,,cabocell
+345,alto impacto_xm note 11 pro_rojo,445,alto impacto_xm note 11 pro_rojo,65.0,250.0,000,Fundas,alto impacto,xm note 11 pro,rojo,1,,cabocell
+346,macaron matte_xm note 11 pro_morado,446,macaron matte_xm note 11 pro_morado,70.0,250.0,000,Fundas,macaron matte,xm note 11 pro,morado,1,,vlak
+347,alto impacto_xm red 10c 4g_rojo,447,alto impacto_xm red 10c 4g_rojo,65.0,250.0,000,Fundas,alto impacto,xm red 10c 4g,rojo,2,,cabocell
+348,case cute_hw y9a_transparente,448,case cute_hw y9a_transparente,25.0,200.0,000,Fundas,case cute,hw y9a,transparente,1,,cabocell
+349,guess_hw y9a_negro,449,guess_hw y9a_negro,50.0,220.0,000,Fundas,guess,hw y9a,negro,1,,cellhit
+350,calvinklein_hw y9a_blanco,450,calvinklein_hw y9a_blanco,50.0,220.0,000,Fundas,calvinklein,hw y9a,blanco,1,,cellhit
